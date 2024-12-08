@@ -10,7 +10,7 @@ Pygame was used to make the raycaster playable.<br>
 Textures where also found while reading the tutorial they all come from the game Wolfenstein 3D.<br>
 
 Install and Run:<br>
-Make sure to install every package in the requirements.txt file.<br>
+Make sure to install every package in the requirements.txt file or to activate the env (source env/.venv/bin/activate for linux and MAC OS).<br>
 You may run the untextured raycaster by calling: python3 main.py<br>
 Or: python3 main.py untextured<br>
 You may run the textured raycaster by calling: python3 main.py textured<br>
